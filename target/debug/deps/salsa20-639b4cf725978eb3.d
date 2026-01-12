@@ -1,0 +1,11 @@
+/home/lmosec/password_hash/target/debug/deps/libsalsa20-639b4cf725978eb3.rmeta: /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/lib.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/soft.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/sse2.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/xsalsa.rs
+
+/home/lmosec/password_hash/target/debug/deps/libsalsa20-639b4cf725978eb3.rlib: /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/lib.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/soft.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/sse2.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/xsalsa.rs
+
+/home/lmosec/password_hash/target/debug/deps/salsa20-639b4cf725978eb3.d: /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/lib.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/soft.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/sse2.rs /home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/xsalsa.rs
+
+/home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/lib.rs:
+/home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends.rs:
+/home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/soft.rs:
+/home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/backends/sse2.rs:
+/home/lmosec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0-pre.1/src/xsalsa.rs:

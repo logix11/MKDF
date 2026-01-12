@@ -1,0 +1,20 @@
+[package]
+name = "mkdf"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["L. M. Oukaci ouka.lotfi@gmail.com"]
+description = "Use this program to authenticate users and generate a data protection key (DPK) that is used\nto encrypt data per user."
+licence = "GPL-3.0-only"
+readme = "README.md"
+
+keywords = ["security", "authentication", "encryption", "hashing", "password", "cli"]
+categories = ["command-line-utilities", "cryptography"]
+
+rust-version = "1.87.0"
+
+[dependencies]
+clap = { version = "4.5.54", features = ["derive"] }
+rand = "0.9.1"
+yescrypt = "0.1.0-rc.2"	                              	# KDF
+rayon = "1.11.0"										# Multithreading
