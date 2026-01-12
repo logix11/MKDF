@@ -7,6 +7,12 @@ A password-based key derivation and verification tool. This tool uses Yescrypt t
 - Less expensive than JS-based operations
 - Safe by design
 
+## Installation
+```
+$ cargo build --release
+$ cp target/release/mkdf /usr/local/bin
+```
+
 ## Usage
 ```
 $ echo "passwd" | mkdf --hash
