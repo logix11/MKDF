@@ -5,7 +5,7 @@ edition = "2021"
 
 authors = ["L. M. Oukaci ouka.lotfi@gmail.com"]
 description = "Use this program to authenticate users and generate a data protection key (DPK) that is used\nto encrypt data per user."
-licence = "GPL-3.0-only"
+license = "GPL-3.0-only"
 readme = "README.md"
 
 keywords = ["security", "authentication", "encryption", "hashing", "password", "cli"]
