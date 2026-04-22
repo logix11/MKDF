@@ -15,6 +15,6 @@ rust-version = "1.87.0"
 
 [dependencies]
 clap = { version = "4.5.54", features = ["derive"] }
-rand = "0.9.1"
+rand = "0.9.3"
 yescrypt = "0.1.0-rc.2"	                              	# KDF
 rayon = "1.11.0"										# Multithreading
